@@ -1,0 +1,123 @@
+[
+  {
+    "model": "posts.post",
+    "pk": 65,
+    "fields": {
+      "name": "What is the JavaScript version of sleep()?",
+      "body": "Is there a better way to engineer a sleep in JavaScript than the following pause comp function (taken from here)?",
+      "image": null,
+      "created_at": "2021-09-16T02:50:17.822Z",
+      "updated_at": "2021-09-16T02:50:17.822Z"
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 67,
+    "fields": {
+      "name": "Sourcetree style changelist",
+      "body": "I've used Plastic for a few years and have recently been \"introduced\" to Sourcetree. Most of Sourcetree I don't like, save for one thing. In the Plastic branch explorer, is there any way to",
+      "image": null,
+      "created_at": "2021-09-16T03:37:54.735Z",
+      "updated_at": "2021-09-16T03:37:54.735Z"
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 68,
+    "fields": {
+      "name": "append list with updated dictionary values",
+      "body": "I am trying to update list with updated dictionary values for keys. But somehow the list is only taking values from the last iteration. my code is:",
+      "image": "image/upload/v1631763597/izo00f3iweqf4ftmtjje.png",
+      "created_at": "2021-09-16T03:39:57.751Z",
+      "updated_at": "2021-09-16T03:39:57.751Z"
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 69,
+    "fields": {
+      "name": "Popup Style: background color",
+      "body": "I'm quite a beginer in wpf and i want to set the background of my popup to another color in the following Code. I do not understand, what I'm making wrong.\n\nThanks in advance :)",
+      "image": "image/upload/v1631763704/lioeljj0zkoqvfurxiz9.png",
+      "created_at": "2021-09-16T03:41:44.367Z",
+      "updated_at": "2021-09-16T03:41:44.367Z"
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 70,
+    "fields": {
+      "name": "How to check the decimal position AngularJS",
+      "body": "I am working with a value such as var number = 23.8981 I need to check the 4th number after the decimal and determine if it is a number that is not 0. I am uncertain how to go about this check. I am new to angularjs so any help with this particular problem would be greatly appreciated.",
+      "image": null,
+      "created_at": "2021-09-16T03:42:09.438Z",
+      "updated_at": "2021-09-16T03:42:09.438Z"
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 71,
+    "fields": {
+      "name": "How to use an instance reference in c#?",
+      "body": "So I am working on a C# application in WinForms, which is having trouble matching static items.\n\nHere is my code",
+      "image": "image/upload/v1631763791/t3o81kurmdzliudwlcfs.png",
+      "created_at": "2021-09-16T03:43:11.903Z",
+      "updated_at": "2021-09-16T03:43:11.903Z"
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 72,
+    "fields": {
+      "name": "FastApi getting CORS error instead of Error 500",
+      "body": "Yesterday I asked a question about CORS error that I was getting when trying to do a POST request to FastApi backend from Angular app. After a few comments I decided to delete the question to re-check everything better.\n\nSo things are a bit weird. In my FastApi backend I have the following functions:",
+      "image": "image/upload/v1631763840/ov0hsing0jsvndp201bm.png",
+      "created_at": "2021-09-16T03:44:01.066Z",
+      "updated_at": "2021-09-16T03:44:01.066Z"
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 73,
+    "fields": {
+      "name": "Django submission button doesn't link with view",
+      "body": "I am trying to create a small subscription input form on top of my page that allows users to enter their email, click \"submit\" and then it will call the subscribe function on the back-end.\n\nI am putting the form code in one of my template html file:",
+      "image": "image/upload/v1631763934/fph1ehfecwjapycckxsv.png",
+      "created_at": "2021-09-16T03:45:35.057Z",
+      "updated_at": "2021-09-16T03:45:35.057Z"
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 74,
+    "fields": {
+      "name": "React JS google function deployed CORS error",
+      "body": "Recently I could deploy a function cloud on google. The app is in React. When I call the function I get CORB ( not CORS ) error on all redirected material that generated with REACT ( css and js which basically we have 302 redirected message). Anyone knows what is the work around solution? In my node app I use CORS already.",
+      "image": "image/upload/v1631764038/kbti0ys4r5xehcnwwsjr.jpg",
+      "created_at": "2021-09-16T03:47:18.889Z",
+      "updated_at": "2021-09-16T03:47:18.890Z"
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 75,
+    "fields": {
+      "name": "Setting Javascript objects to use Int8 and Int16",
+      "body": "I've got a very large datastructure, part of which shown below.",
+      "image": "image/upload/v1631764092/vcqurfosaimiowvx36dd.png",
+      "created_at": "2021-09-16T03:48:12.959Z",
+      "updated_at": "2021-09-16T03:48:12.959Z"
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 76,
+    "fields": {
+      "name": "SQL Case Statement to DAX formula",
+      "body": "I need help converting a SQL query to DAX cause at this point my DAX code looks weird and it doesn't work,\n\nThere are data in USD and DOP currencys, so I would like to have a result like this",
+      "image": "image/upload/v1631764128/efr70kyy5mnhtabaj8nc.png",
+      "created_at": "2021-09-16T03:48:48.572Z",
+      "updated_at": "2021-09-16T03:48:48.572Z"
+    }
+  }
+]

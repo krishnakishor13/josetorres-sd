@@ -1,0 +1,21 @@
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+}
+  
+.tooltip .tooltiptext {
+    width: 50px;
+    color: #59AAD0;
+    text-align: center;
+    border-radius: 6px;
+    padding: 4px 0;
+    position: absolute;
+    top: -25px;
+    left: -7px;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    z-index: 5;
+}

@@ -1,0 +1,68 @@
+
+.sign-up {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    padding-top: 3rem;
+    background-color: rgba(93, 91, 91, .4);
+}
+.sign-up .title {
+    font-size: 2.5rem;
+    max-width: 400px;
+    text-align: center;
+    font-weight: 600;
+    line-height: 1.2;
+    letter-spacing: 1px;
+}
+.sign-up .description {
+    font-size: 1rem;
+    max-width: 375px;
+    text-align: center;
+    margin: 1rem 0 1.5rem 0;
+    line-height: 1.6;
+    letter-spacing: 1.5px;
+}
+.sign-up .form-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #2c2c2c;
+    width: 100%;
+    max-width: 400px;
+    padding: 30px 60px;
+    margin-bottom: auto;
+    border-radius: 8px;
+    box-shadow: 0 0 14px #00000099;
+}
+
+@media screen and (max-width: 500px) {
+    .sign-up .title {
+        font-size: 2rem;
+        max-width: 350px;
+        line-height: 1.2;
+    }
+    .sign-up .description {
+        font-size: 1rem;
+        margin: 1rem 0 2.5rem 0;
+    }
+    .sign-up .form-container {
+        max-width: 350px;
+        padding: 20px 50px;
+    }
+}
+@media screen and (max-width: 380px) {
+    .sign-up .title {
+        font-size: 1.5rem;
+        max-width: 250px;
+        line-height: 1.2;
+    }
+    .sign-up .description {
+        font-size: 1rem;
+        margin: 1rem 0 2rem 0;
+    }
+    .sign-up .form-container {
+        max-width: 310px;
+        padding: 20px 40px;
+    }
+}
